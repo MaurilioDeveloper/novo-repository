@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/58a141c7-a194-4f71-9214-3db3b42b33a9/resourceGroups/mimecoderesource/providers/Microsoft.Web/sites/mimecode",
+    "appService.deploySubpath": "."
+}
